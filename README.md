@@ -45,7 +45,10 @@ The SQL script in `sql/salesAnalysis.sql` uses a common table expression (CTE) t
 
 **Note:** The script expects the imported MySQL tables to be named `product_data`, `product_sales` and `discount_data`, with column names matching the supplied source files (including the spaces and punctuation used in the SQL).
 
-## Power BI dashboard
+
+## Power BI Dashboard Preview
+
+![E-commerce Sales Performance Dashboard](dashboard/sales-dashboard.png)
 
 The report is provided in `powerbi/SALES_DATAANALYSIS.pbix`. The current dashboard presents:
 
