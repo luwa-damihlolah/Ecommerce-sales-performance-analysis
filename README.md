@@ -48,7 +48,7 @@ The SQL script in `sql/salesAnalysis.sql` uses a common table expression (CTE) t
 
 ## Power BI Dashboard Preview
 
-![E-commerce Sales Performance Dashboard](dashboard/sales-dashboard.png)
+![E-commerce Sales Performance Dashboard](dashboard/dashboard-preview.png)
 
 The report is provided in `powerbi/SALES_DATAANALYSIS.pbix`. The current dashboard presents:
 
@@ -61,7 +61,7 @@ The report is provided in `powerbi/SALES_DATAANALYSIS.pbix`. The current dashboa
 
 ## Power BI Dashboard Preview
 
-![E-commerce Sales Performance Dashboard](dashboard/sales-dashboard.png)
+![E-commerce Sales Performance Dashboard](dashboard/dashboard-preview.png)
 
 ## Repository structure
 
