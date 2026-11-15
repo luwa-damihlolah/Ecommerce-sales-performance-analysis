@@ -59,7 +59,9 @@ The report is provided in `powerbi/SALES_DATAANALYSIS.pbix`. The current dashboa
 - Sales distribution by discount band.
 - Year-over-year KPI cards for profit and units sold.
 
-![Power BI dashboard preview](dashboard/dashboard-preview.png)
+## Power BI Dashboard Preview
+
+![E-commerce Sales Performance Dashboard](dashboard/sales-dashboard.png)
 
 ## Repository structure
 
